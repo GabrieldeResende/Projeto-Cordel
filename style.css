@@ -62,8 +62,7 @@ section > p {
 }
 
 section.normal {
-    background-color: white;
-    color white-space: ;
+    background-color: rgba(255, 255, 255, 0.596);
 }
 
 section.imagem {
@@ -81,7 +80,7 @@ section.imagem > p {
 }
 
 section#img01 {
-    background-image: url(../desafio02/imagens/background001.jpg );
+    background-image: url(imagens/background001.jpg);
     background-position: right center;
     background-size: cover;
 }
